@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey, it's Dingo!
 
 <!--
 **dingo-dragon/dingo-dragon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi there! My name is **Wolf**, **Dragon** or **Dingo**! I enjoy code, art, roleplaying and writing. I use she/her pronouns.
+You can see me on my YouTube https://www.youtube.com/@DingoDragonProductions or my Scratch https://www.scratch.mit.edu/users/wolf8334
